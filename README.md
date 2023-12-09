@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+ <h2 align="center">Welcome! woongdam GitHub Readme Stats</h2>
+ <p align="center">:octocat:GitHub stats README</p>
+</p>
+
+![woongdam777 GitHub stats](https://github-readme-stats.vercel.app/api?username=woongdam777&show_icons=true&theme=transparent)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woongdam777&layout=compact)
+
 
 <!--
 **woongdam777/woongdam777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![woongdam777 GitHub stats](https://github-readme-stats.vercel.app/api?username=woongdam777&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woongdam777&hide_progress=false)
+
