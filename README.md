@@ -1,6 +1,13 @@
 <p align="center">
  <h2 align="center">Welcome! woongdam GitHub Readme Stats</h2>
- <p align="center">:octocat:GitHub stats README</p>
+ <p align="center">
+   :octocat:GitHub stats README
+ </p>
+ <p align="center">
+  <a href="https://hits.seeyoufarm.com">
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongdam777&count_bg=%23DB7A33&title_bg=%233B1B1B&icon=&icon_color=%23622424&title=visits&edge_flat=false"/>
+  </a>
+ </p>
 </p>
 
 ![woongdam777 GitHub stats](https://github-readme-stats.vercel.app/api?username=woongdam777&show_icons=true&theme=transparent)
